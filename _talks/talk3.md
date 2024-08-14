@@ -24,6 +24,9 @@ This workshop session delves into several critical facets of achieving security 
 - Exploring the potential of quantum network protocols to enhance security in classical and quantum domains.
 
 
-##### Session schedule
+##### Confirmed Speakers
 
-TBA
+- Marco Pistoia (JPMC)
+- Jakub Szefer (Yale)
+- Travis Scholten (IBM)
+- Wenji Wu (LBL/ESnet)

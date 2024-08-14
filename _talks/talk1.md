@@ -15,6 +15,9 @@ This workshop session aims to explore strategies to enhance reproducibility in t
 - Development of standardized benchmarks and automated
 validation testing methodologies to assess the performance and correctness of quantum computations.
 
-##### Session schedule
+##### Confirmed Speakers
 
-TBA
+- Jonathan Wurtz (QuEra Computing Inc.)
+- Laura Schulz (Leibniz Supercomputing Centre - LRZ)
+- Matthias Möller (TU Delft)
+- Yuvraj Mohan (Rigetti Computing)

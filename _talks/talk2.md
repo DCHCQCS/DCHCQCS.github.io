@@ -18,6 +18,9 @@ This workshop session will address the resiliency challenge by focusing on sever
 - Assessing the complexity, verifiability, and reliability of quantum control and readout.
 - Developing models and methodologies for characterizing and designing fault-tolerant architectures.
 
-##### Session schedule
+##### Confirmed Speakers
 
-TBA
+- Kate Smith (Northwestern University)
+- Robert Wille (TUM)
+- Silvia Zorzetti (SQMS/Fermilab)
+- David Hayes (Quantinuum)
