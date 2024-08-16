@@ -24,3 +24,4 @@ This workshop session will address the resiliency challenge by focusing on sever
 - Robert Wille (TUM)
 - Silvia Zorzetti (SQMS/Fermilab)
 - David Hayes (Quantinuum)
+- Dror Baron (NCSU)
