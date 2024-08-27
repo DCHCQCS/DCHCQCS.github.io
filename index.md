@@ -10,6 +10,13 @@ This workshop will:
 
 Our workshop focuses on the need to develop new engineering principles that can define and guarantee the dependability of hybrid classical-quantum systems, and center on the development of metrics with predictive utility to estimate a priori the impact of design decisions: we believe it is possible to move into a more prescriptive classical- quantum co-design cycle rather than rely on purely experimental work. Our overarching goal is to build an open research and development roadmap for dependable hybrid systems engineering that benefits from transferable expertise and skills from other disciplines while identifying core knowledge and technology gaps that need to be filled. This dependable-by-construction approach will prevent design pitfalls and accelerate the maturation of the HPC-QC ecosystem.
 
+### When and Where
+Date: Fri, Sep 20, 2024
+Time: 10:00-16:30 Eastern Time (EDT) — UTC-4
+Duration: 4.5 hours (3 x 1.5 hours)
+
+Room: 520A
+
 ### Sessions
 - [Reproducibility](/talks/talk1)
 - [Resiliency](/talks/talk2)
