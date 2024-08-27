@@ -7,7 +7,9 @@ Main Conference: [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/),
 
 
 Date: Fri, Sep 20, 2024
+
 Time: 10:00-16:30 Eastern Time (EDT) — UTC-4
+
 Duration: 4.5 hours (3 x 1.5 hours)
 
 

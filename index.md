@@ -12,7 +12,9 @@ Our workshop focuses on the need to develop new engineering principles that can 
 
 ### When and Where
 Date: Fri, Sep 20, 2024
+
 Time: 10:00-16:30 Eastern Time (EDT) — UTC-4
+
 Duration: 4.5 hours (3 x 1.5 hours)
 
 Room: 520A
