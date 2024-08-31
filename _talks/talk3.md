@@ -18,6 +18,7 @@ The integration of classical-quantum systems presents new security challenges, i
 This workshop session delves into several critical facets of achieving security within classical-quantum integration:
 
 - Migration of classical systems to post-quantum cryptography.
+- Use of Quantum Cryptography, and particularly Quantum Key Distribution.
 - Measuring the adoption rate of quantum-resistant cryptographic protocols and secure quantum secret exchange.
 - Ensuring security in both local and distributed quantum computations.
 - Safeguarding the quantum hardware supply chain amidst shifting geopolitical landscapes.
@@ -26,7 +27,7 @@ This workshop session delves into several critical facets of achieving security 
 
 ##### Confirmed Speakers
 
-- Marco Pistoia (JPMC)
+- Marco Pistoia (JPMorgan Chase)
 - Jakub Szefer (Yale)
 - Travis Scholten (IBM)
 - Wenji Wu (LBL/ESnet)
