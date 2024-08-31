@@ -29,5 +29,4 @@ This workshop session delves into several critical facets of achieving security 
 
 - Marco Pistoia (JPMorgan Chase)
 - Jakub Szefer (Yale)
-- Travis Scholten (IBM)
 - Wenji Wu (LBL/ESnet)
