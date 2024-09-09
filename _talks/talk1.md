@@ -21,3 +21,4 @@ validation testing methodologies to assess the performance and correctness of qu
 - Laura Schulz (Leibniz Supercomputing Centre - LRZ)
 - Matthias Möller (TU Delft)
 - Yuvraj Mohan (Rigetti Computing)
+- Tuukka Hiltunen (IQM)

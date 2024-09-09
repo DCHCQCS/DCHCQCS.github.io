@@ -23,6 +23,5 @@ This workshop session will address the resiliency challenge by focusing on sever
 - Kate Smith (Northwestern University)
 - Robert Wille (TUM)
 - Silvia Zorzetti (SQMS/Fermilab)
-- David Hayes (Quantinuum)
 - Dror Baron (NCSU)
 - Misty Wahl (Unitary Fund)
