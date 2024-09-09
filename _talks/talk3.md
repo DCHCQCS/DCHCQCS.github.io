@@ -30,3 +30,5 @@ This workshop session delves into several critical facets of achieving security 
 - Marco Pistoia (JPMorgan Chase)
 - Jakub Szefer (Yale)
 - Wenji Wu (LBL/ESnet)
+- Nicola Franco (Fraunhofer - IKS)
+- John Mulholland (EvolutionQ)
