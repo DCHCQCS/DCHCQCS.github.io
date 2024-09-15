@@ -21,7 +21,7 @@ This workshop session will address the resiliency challenge by focusing on sever
 ##### Confirmed Speakers
 
 - Kate Smith (Northwestern University)
-- Robert Wille (TUM)
+- Lukas Burgholzer (TUM)
 - Silvia Zorzetti (SQMS/Fermilab)
 - Dror Baron (NCSU)
 - Misty Wahl (Unitary Fund)
