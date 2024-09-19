@@ -25,8 +25,21 @@ Room: 520A
 - [Security and Privacy](/talks/talk3)
 
 
+#### Link to Zoom session
+[Join the discussion live!](https://us06web.zoom.us/j/82020007689?pwd=3jwLcNiv7VkDkq7jE9h4oxBcJtGeEu.1)
+
+
 #### Organizers
 - Edoardo Giusto, General Chair, University of Naples, Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
 - Eleanor Rieffel, NASA, US, [eleanor.rieffel@nasa.gov](mailto:eleanor.rieffel@nasa.gov)
 - Santiago Nuñez-Corrales, NCSA, US, [nunezco2@illinois.edu](mailto:nunezco2@illinois.edu)
 - Phuong Cao, ECE Illinois, US, [pcao3@illinois.edu](mailto:pcao3@illinois.edu)
+
+
+
+#### Special Issue on Frontiers in Computer Science
+
+We are also organizing a Special Issue on Frontiers in Computer Science: 
+[Realizing Quantum Utility: Grand Challenges of Secure & Trustworthy Quantum Computing](https://www.frontiersin.org/research-topics/62535/realizing-quantum-utility-grand-challenges-of-secure-trustworthy-quantum-computing)
+
+Please check it out and submit your innovative research!
