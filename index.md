@@ -28,6 +28,9 @@ Room: 520A
 #### Link to Zoom session
 [Join the discussion live!](https://us06web.zoom.us/j/82020007689?pwd=3jwLcNiv7VkDkq7jE9h4oxBcJtGeEu.1)
 
+#### Link to Zoom session
+Keep in touch through this [Google form](https://go.ncsa.illinois.edu/dcqcse-qce2024)
+
 
 #### Organizers
 - Edoardo Giusto, General Chair, University of Naples, Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
