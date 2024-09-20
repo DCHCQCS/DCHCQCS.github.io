@@ -25,8 +25,8 @@ Room: 520A
 - [Security and Privacy](/talks/talk3)
 
 
-#### Link to Zoom session
-[Join the discussion live!](https://us06web.zoom.us/j/82020007689?pwd=3jwLcNiv7VkDkq7jE9h4oxBcJtGeEu.1)
+<!-- #### Link to Zoom session
+[Join the discussion live!](https://us06web.zoom.us/j/82020007689?pwd=3jwLcNiv7VkDkq7jE9h4oxBcJtGeEu.1) -->
 
 #### Keep in touch afterwards!
 Keep in touch through this [Google form](https://go.ncsa.illinois.edu/dcqcse-qce2024)
